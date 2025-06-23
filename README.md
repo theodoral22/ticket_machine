@@ -1,2 +1,1 @@
-# ticket_machine
-A simple ticket machine
+This program is a simple automatic ticket vending machine. At first, it reads the number of the tickets that the user wants to buy (integer between 1 and 5) and the money that the user has (float number between 0.75 and 100). If the inputs are wrong, it asks the user to re-enter them. The predetermined price of a ticket is 75 cents (0.75€). The program checks if the user has enough money to buy the tickets, and if so, it calculates and displays the change on the screen. Otherwise, it terminates and displays "The money is not enough to buy the tickets." on the screen.
